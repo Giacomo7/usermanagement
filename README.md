@@ -1,2 +1,16 @@
-# User management
-Sample demo that implements crud operations. The Backend is a REST API server made in nestjs. The Frontend is a webapp created in React + Ant Deisgn.
+<h2>Avvio del backend</h2>
+All'interno della cardella backend 
+```bash
+$ npm install
+$ npm run start
+```
+<h2>Connessione al DB MySql</h2>
+I dati di connessione sono all'interno del file ormconfig.json
+
+<h2>Avvio del frontend</h2>
+All'interno della cartella frontend
+```bash
+$ yarn install
+$ yarn build
+$ yarn serve
+```
