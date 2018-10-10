@@ -1,5 +1,5 @@
 ## Avvio del backend
-All'interno della cardella backend 
+All'interno della cartella backend 
 ```bash
 $ npm install
 $ npm run start
